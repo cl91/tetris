@@ -1,0 +1,6 @@
+*.o
+*.exe
+tetris_curses
+tetris_glut
+
+!.gitignore
